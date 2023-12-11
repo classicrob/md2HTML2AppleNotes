@@ -1,0 +1,3 @@
+1. Place a folder of markdown files into this directory and cd into it.
+2. Run mdToHTML.py. That will convert all md files in this directory and any subdirectories into HTML.
+3. Open up htmlToAppleNotes.scpt in Script Editor. Where it says targetFolder, change the string to the name of a folder you have created in Apple Notes. Then press play, it will prompt you about which folder of HTML files to use.
